@@ -1,1 +1,1 @@
-# BRIDGE-Docs
+BRIDGE Lab Image Analysis Documentation
