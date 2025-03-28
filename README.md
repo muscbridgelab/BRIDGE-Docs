@@ -1,1 +1,1 @@
-BRIDGE Lab Image Analysis Documentation
+BRIDGE Lab Image Analysis scripts and other documentation for bridgelab.info
